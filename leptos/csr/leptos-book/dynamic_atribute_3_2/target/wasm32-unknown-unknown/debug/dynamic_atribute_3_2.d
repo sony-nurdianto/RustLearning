@@ -1,0 +1,1 @@
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/dynamic_atribute_3_2/target/wasm32-unknown-unknown/debug/dynamic_atribute_3_2.wasm: /home/sony/Projects/RustLearning/leptos/csr/leptos-book/dynamic_atribute_3_2/src/app/mod.rs /home/sony/Projects/RustLearning/leptos/csr/leptos-book/dynamic_atribute_3_2/src/main.rs

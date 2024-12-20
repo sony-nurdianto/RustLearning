@@ -1,0 +1,1 @@
+ForPropsBuilder<{closure@src/app/static_iteration.rs:33:26: 33:33}, ReadSignal<Vec<(usize, (ReadSignal<usize>, WriteSignal<usize>))>>, _, _, _, _, _, (({closure@src/app/static_iteration.rs:33:26: 33:33},), (), ())>

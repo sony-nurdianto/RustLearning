@@ -1,0 +1,11 @@
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/dynamic_atribute_3_2/target/debug/deps/libslotmap-e17c406bfc5fd73e.rmeta: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/basic.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/dense.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/hop.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/secondary.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/sparse_secondary.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/util.rs
+
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/dynamic_atribute_3_2/target/debug/deps/slotmap-e17c406bfc5fd73e.d: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/basic.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/dense.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/hop.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/secondary.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/sparse_secondary.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/util.rs
+
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/lib.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/basic.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/dense.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/hop.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/secondary.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/sparse_secondary.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/util.rs:

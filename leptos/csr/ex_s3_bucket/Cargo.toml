@@ -1,0 +1,12 @@
+[package]
+name = "ex_s3_bucket"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aws-config = "1.5.10"
+aws-sdk-s3 = "1.60.0"
+dotenvy = "0.15.7"
+leptos = { version = "0.6.15", features = ["csr"] }
+thaw = { version = "0.3.4", features = ["csr"] }
+tokio = { version = "1.41.1", features = ["full"] }

@@ -1,0 +1,11 @@
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/router_9/target/debug/deps/libserde_test-55e898e380a9fe8d.rmeta: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/assert.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/configure.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/de.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/error.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/ser.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/token.rs
+
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/router_9/target/debug/deps/serde_test-55e898e380a9fe8d.d: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/assert.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/configure.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/de.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/error.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/ser.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/token.rs
+
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/lib.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/assert.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/configure.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/de.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/error.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/ser.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_test-1.0.177/src/token.rs:

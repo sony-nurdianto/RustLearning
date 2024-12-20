@@ -1,0 +1,1 @@
+fn(ForProps<Vec<(usize, (ReadSignal<usize>, WriteSignal<usize>))>, _, _, _, _, _, _>) -> impl IntoView {For::<Vec<(usize, (ReadSignal<usize>, WriteSignal<usize>))>, _, _, _, _, _, _>}

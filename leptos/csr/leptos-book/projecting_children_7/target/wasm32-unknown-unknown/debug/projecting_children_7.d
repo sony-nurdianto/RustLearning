@@ -1,0 +1,1 @@
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/projecting_children_7/target/wasm32-unknown-unknown/debug/projecting_children_7.wasm: /home/sony/Projects/RustLearning/leptos/csr/leptos-book/projecting_children_7/src/app/mod.rs /home/sony/Projects/RustLearning/leptos/csr/leptos-book/projecting_children_7/src/main.rs

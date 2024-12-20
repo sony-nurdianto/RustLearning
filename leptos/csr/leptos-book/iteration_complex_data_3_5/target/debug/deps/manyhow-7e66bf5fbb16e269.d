@@ -1,0 +1,11 @@
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/iteration_complex_data_3_5/target/debug/deps/libmanyhow-7e66bf5fbb16e269.rmeta: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/manyhow-0.10.4/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/manyhow-0.10.4/src/span_ranged.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/manyhow-0.10.4/src/macro_rules.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/manyhow-0.10.4/src/error.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/manyhow-0.10.4/src/parse_to_tokens.rs
+
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/iteration_complex_data_3_5/target/debug/deps/libmanyhow-7e66bf5fbb16e269.rlib: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/manyhow-0.10.4/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/manyhow-0.10.4/src/span_ranged.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/manyhow-0.10.4/src/macro_rules.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/manyhow-0.10.4/src/error.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/manyhow-0.10.4/src/parse_to_tokens.rs
+
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/iteration_complex_data_3_5/target/debug/deps/manyhow-7e66bf5fbb16e269.d: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/manyhow-0.10.4/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/manyhow-0.10.4/src/span_ranged.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/manyhow-0.10.4/src/macro_rules.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/manyhow-0.10.4/src/error.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/manyhow-0.10.4/src/parse_to_tokens.rs
+
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/manyhow-0.10.4/src/lib.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/manyhow-0.10.4/src/span_ranged.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/manyhow-0.10.4/src/macro_rules.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/manyhow-0.10.4/src/error.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/manyhow-0.10.4/src/parse_to_tokens.rs:

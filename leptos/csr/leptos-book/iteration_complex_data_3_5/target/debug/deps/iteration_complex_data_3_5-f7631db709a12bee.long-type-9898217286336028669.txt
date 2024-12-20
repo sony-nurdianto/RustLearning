@@ -1,0 +1,1 @@
+ForPropsBuilder<{closure@src/app/mod.rs:35:19: 35:26}, ReadSignal<Vec<DatabaseEntry>>, _, _, _, _, _, (({closure@src/app/mod.rs:35:19: 35:26},), (), ())>

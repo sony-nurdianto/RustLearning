@@ -1,0 +1,1 @@
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/action_async_6_4/target/wasm32-unknown-unknown/debug/action_async_6_4.wasm: /home/sony/Projects/RustLearning/leptos/csr/leptos-book/action_async_6_4/src/app/mod.rs /home/sony/Projects/RustLearning/leptos/csr/leptos-book/action_async_6_4/src/main.rs

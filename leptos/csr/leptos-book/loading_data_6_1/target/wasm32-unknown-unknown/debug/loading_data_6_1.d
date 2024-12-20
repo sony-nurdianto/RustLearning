@@ -1,0 +1,1 @@
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/loading_data_6_1/target/wasm32-unknown-unknown/debug/loading_data_6_1.wasm: /home/sony/Projects/RustLearning/leptos/csr/leptos-book/loading_data_6_1/src/app/mod.rs /home/sony/Projects/RustLearning/leptos/csr/leptos-book/loading_data_6_1/src/main.rs

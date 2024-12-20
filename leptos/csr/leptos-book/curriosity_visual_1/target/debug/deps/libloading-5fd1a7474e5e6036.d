@@ -1,0 +1,12 @@
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/curriosity_visual_1/target/debug/deps/liblibloading-5fd1a7474e5e6036.rmeta: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/changelog.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/os/mod.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/os/unix/mod.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/os/unix/consts.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/util.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/error.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/safe.rs
+
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/curriosity_visual_1/target/debug/deps/libloading-5fd1a7474e5e6036.d: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/changelog.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/os/mod.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/os/unix/mod.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/os/unix/consts.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/util.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/error.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/safe.rs
+
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/lib.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/changelog.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/os/mod.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/os/unix/mod.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/os/unix/consts.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/util.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/error.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/safe.rs:

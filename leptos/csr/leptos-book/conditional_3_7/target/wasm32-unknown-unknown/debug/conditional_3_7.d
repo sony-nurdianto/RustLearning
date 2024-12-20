@@ -1,0 +1,1 @@
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/conditional_3_7/target/wasm32-unknown-unknown/debug/conditional_3_7.wasm: /home/sony/Projects/RustLearning/leptos/csr/leptos-book/conditional_3_7/src/app/mod.rs /home/sony/Projects/RustLearning/leptos/csr/leptos-book/conditional_3_7/src/main.rs

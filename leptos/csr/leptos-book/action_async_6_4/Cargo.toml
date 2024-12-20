@@ -1,0 +1,9 @@
+[package]
+name = "action_async_6_4"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gloo-timers = { version = "0.3.0", features = ["futures"] }
+leptos = { version = "0.6.15", features = ["csr"] }
+uuid = { version = "1.11.0", features = ["v4"] }

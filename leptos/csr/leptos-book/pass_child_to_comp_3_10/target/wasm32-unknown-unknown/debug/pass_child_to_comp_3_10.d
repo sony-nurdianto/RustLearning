@@ -1,0 +1,1 @@
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/pass_child_to_comp_3_10/target/wasm32-unknown-unknown/debug/pass_child_to_comp_3_10.wasm: /home/sony/Projects/RustLearning/leptos/csr/leptos-book/pass_child_to_comp_3_10/src/app/mod.rs /home/sony/Projects/RustLearning/leptos/csr/leptos-book/pass_child_to_comp_3_10/src/main.rs

@@ -1,0 +1,10 @@
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/iteration_complex_data_3_5/target/debug/deps/libproc_macro_utils-e0bcbe62896a82ed.rmeta: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.10.0/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.10.0/src/parser.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.10.0/src/assert.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.10.0/src/__private.rs
+
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/iteration_complex_data_3_5/target/debug/deps/libproc_macro_utils-e0bcbe62896a82ed.rlib: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.10.0/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.10.0/src/parser.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.10.0/src/assert.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.10.0/src/__private.rs
+
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/iteration_complex_data_3_5/target/debug/deps/proc_macro_utils-e0bcbe62896a82ed.d: /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.10.0/src/lib.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.10.0/src/parser.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.10.0/src/assert.rs /home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.10.0/src/__private.rs
+
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.10.0/src/lib.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.10.0/src/parser.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.10.0/src/assert.rs:
+/home/sony/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro-utils-0.10.0/src/__private.rs:

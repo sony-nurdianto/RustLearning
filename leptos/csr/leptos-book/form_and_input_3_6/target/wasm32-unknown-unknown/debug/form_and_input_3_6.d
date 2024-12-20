@@ -1,0 +1,1 @@
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/form_and_input_3_6/target/wasm32-unknown-unknown/debug/form_and_input_3_6.wasm: /home/sony/Projects/RustLearning/leptos/csr/leptos-book/form_and_input_3_6/src/app/mod.rs /home/sony/Projects/RustLearning/leptos/csr/leptos-book/form_and_input_3_6/src/main.rs

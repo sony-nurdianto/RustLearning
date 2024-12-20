@@ -1,0 +1,1 @@
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/working_with_signal_4_1/target/wasm32-unknown-unknown/debug/working_with_signal_4_1.wasm: /home/sony/Projects/RustLearning/leptos/csr/leptos-book/working_with_signal_4_1/src/app/mod.rs /home/sony/Projects/RustLearning/leptos/csr/leptos-book/working_with_signal_4_1/src/main.rs

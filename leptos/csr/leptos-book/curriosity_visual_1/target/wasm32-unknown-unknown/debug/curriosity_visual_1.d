@@ -1,0 +1,1 @@
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/curriosity_visual_1/target/wasm32-unknown-unknown/debug/curriosity_visual_1.wasm: /home/sony/Projects/RustLearning/leptos/csr/leptos-book/curriosity_visual_1/src/main.rs

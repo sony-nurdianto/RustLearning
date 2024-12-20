@@ -1,0 +1,1 @@
+ForPropsBuilder<{closure@src/app/mod.rs:14:22: 14:29}, Enumerate<std::vec::IntoIter<&str>>, (usize, &str), _, _, {closure@src/app/mod.rs:15:22: 15:33}, &usize, (({closure@src/app/mod.rs:14:22: 14:29},), ({closure@src/app/mod.rs:15:22: 15:33},), ())>

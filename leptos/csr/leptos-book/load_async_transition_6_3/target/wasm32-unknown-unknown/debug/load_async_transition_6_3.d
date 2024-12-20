@@ -1,0 +1,1 @@
+/home/sony/Projects/RustLearning/leptos/csr/leptos-book/load_async_transition_6_3/target/wasm32-unknown-unknown/debug/load_async_transition_6_3.wasm: /home/sony/Projects/RustLearning/leptos/csr/leptos-book/load_async_transition_6_3/src/app/mod.rs /home/sony/Projects/RustLearning/leptos/csr/leptos-book/load_async_transition_6_3/src/main.rs
