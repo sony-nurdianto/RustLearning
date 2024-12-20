@@ -1,0 +1,7 @@
+[workspace]
+members = [
+"binary_bridge",
+"bridge_lib"
+]
+
+resolver = "2"

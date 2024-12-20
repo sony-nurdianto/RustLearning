@@ -1,0 +1,8 @@
+[workspace]
+members = [
+  "server_library",
+  "server",
+]
+resolver = "2"
+
+
