@@ -1,0 +1,10 @@
+/home/sonynurdianto/Project/RustLearning/dioxus/first-web/.dioxus/web/wasm32-unknown-unknown/debug/deps/libinternment-93ffe1a3339e1460.rmeta: /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/lib.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/boxedset.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/container.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/intern.rs
+
+/home/sonynurdianto/Project/RustLearning/dioxus/first-web/.dioxus/web/wasm32-unknown-unknown/debug/deps/libinternment-93ffe1a3339e1460.rlib: /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/lib.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/boxedset.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/container.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/intern.rs
+
+/home/sonynurdianto/Project/RustLearning/dioxus/first-web/.dioxus/web/wasm32-unknown-unknown/debug/deps/internment-93ffe1a3339e1460.d: /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/lib.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/boxedset.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/container.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/intern.rs
+
+/home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/lib.rs:
+/home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/boxedset.rs:
+/home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/container.rs:
+/home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/intern.rs:

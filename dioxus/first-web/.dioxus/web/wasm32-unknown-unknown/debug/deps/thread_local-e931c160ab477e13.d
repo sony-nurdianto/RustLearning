@@ -1,0 +1,10 @@
+/home/sonynurdianto/Project/RustLearning/dioxus/first-web/.dioxus/web/wasm32-unknown-unknown/debug/deps/libthread_local-e931c160ab477e13.rmeta: /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/lib.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/cached.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/thread_id.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/unreachable.rs
+
+/home/sonynurdianto/Project/RustLearning/dioxus/first-web/.dioxus/web/wasm32-unknown-unknown/debug/deps/libthread_local-e931c160ab477e13.rlib: /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/lib.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/cached.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/thread_id.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/unreachable.rs
+
+/home/sonynurdianto/Project/RustLearning/dioxus/first-web/.dioxus/web/wasm32-unknown-unknown/debug/deps/thread_local-e931c160ab477e13.d: /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/lib.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/cached.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/thread_id.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/unreachable.rs
+
+/home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/lib.rs:
+/home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/cached.rs:
+/home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/thread_id.rs:
+/home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/unreachable.rs:

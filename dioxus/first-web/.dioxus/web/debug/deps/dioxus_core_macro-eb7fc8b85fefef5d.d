@@ -1,0 +1,9 @@
+/home/sonynurdianto/Project/RustLearning/dioxus/first-web/.dioxus/web/debug/deps/libdioxus_core_macro-eb7fc8b85fefef5d.so: /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/lib.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/component.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/props/mod.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/utils.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/../README.md
+
+/home/sonynurdianto/Project/RustLearning/dioxus/first-web/.dioxus/web/debug/deps/dioxus_core_macro-eb7fc8b85fefef5d.d: /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/lib.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/component.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/props/mod.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/utils.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/../README.md
+
+/home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/lib.rs:
+/home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/component.rs:
+/home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/props/mod.rs:
+/home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/utils.rs:
+/home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/../README.md:

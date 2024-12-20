@@ -1,0 +1,10 @@
+/home/sonynurdianto/Project/RustLearning/dioxus/first-web/.dioxus/ssr/debug/deps/libinternment-c3ef772f351d1f85.rmeta: /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/lib.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/boxedset.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/container.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/intern.rs
+
+/home/sonynurdianto/Project/RustLearning/dioxus/first-web/.dioxus/ssr/debug/deps/libinternment-c3ef772f351d1f85.rlib: /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/lib.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/boxedset.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/container.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/intern.rs
+
+/home/sonynurdianto/Project/RustLearning/dioxus/first-web/.dioxus/ssr/debug/deps/internment-c3ef772f351d1f85.d: /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/lib.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/boxedset.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/container.rs /home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/intern.rs
+
+/home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/lib.rs:
+/home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/boxedset.rs:
+/home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/container.rs:
+/home/sonynurdianto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/internment-0.7.5/src/intern.rs:
