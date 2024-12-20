@@ -1,0 +1,6 @@
+[package]
+name = "grouping_related_code_in_modules"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

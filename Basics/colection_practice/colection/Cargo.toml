@@ -1,0 +1,7 @@
+[package]
+name = "colection"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colection_library = {path = "../colection_library"}
